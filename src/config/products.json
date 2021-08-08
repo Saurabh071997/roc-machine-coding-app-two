@@ -1,0 +1,92 @@
+{
+  "products": [
+    {
+      "_id": "p01",
+      "name": "SportsWear T-shirt",
+      "imgUrl": "https://static.nike.com/a/images/f_auto,b_rgb:f5f5f5,w_880/ebbae1c9-e453-489d-9b49-c3e8a22f5d93/sportswear-t-shirt-dptPS1.png",
+      "brandName": "Nike",
+      "isNew": true,
+      "isDiscounted": false,
+      "discount": 0,
+      "actualPrice": 1795,
+      "effectivePrice": 1795
+    },
+    {
+      "_id": "p02",
+      "name": "SportsWear T-shirt",
+      "imgUrl": "https://static.nike.com/a/images/f_auto,b_rgb:f5f5f5,w_440/6468c63e-83f2-40cd-b1ad-1dd189ce95b5/sportswear-t-shirt-Gc63tX.png",
+      "brandName": "Nike",
+      "isNew": true,
+      "isDiscounted": true,
+      "discount": 15,
+      "actualPrice": 2495,
+      "effectivePrice": 2120
+    },
+    {
+      "_id": "p03",
+      "name": "Jordan Dri-Fit Zion",
+      "imgUrl": "https://static.nike.com/a/images/f_auto,b_rgb:f5f5f5,w_440/344973fc-e606-4f5d-9f7b-c11db2ae1cb9/jordan-dri-fit-zion-fleece-hoodie-vS4hjw.png",
+      "brandName": "Nike",
+      "newProduct": false,
+      "isDiscounted": false,
+      "discount": 0,
+      "actualPrice": 5495,
+      "effectivePrice": 5495
+    },
+    {
+      "_id": "p04",
+      "name": "Hybrid Running Tank",
+      "imgUrl": "https://static.nike.com/a/images/f_auto,b_rgb:f5f5f5,w_440/873c4ee9-768f-426d-9a27-87b05fe09c13/miler-run-division-hybrid-running-tank-jx5QJz.png",
+      "brandName": "Nike",
+      "newProduct": false,
+      "isDiscounted": true,
+      "discount": 10,
+      "actualPrice": 2495,
+      "effectivePrice": 2245
+    },
+    {
+      "_id": "p05",
+      "name": "SportsWear Tech Fleece",
+      "imgUrl": "https://static.nike.com/a/images/f_auto,b_rgb:f5f5f5,w_440/439f46cd-da90-45b6-96e7-22d866b32a24/sportswear-tech-fleece-hoodie-bxk5v8.png",
+      "brandName": "Nike",
+      "newProduct": false,
+      "isDiscounted": false,
+      "discount": 0,
+      "actualPrice": 6495,
+      "effectivePrice": 6495
+    },
+    {
+      "_id": "p06",
+      "name": "SportsWear Tech Fleece",
+      "imgUrl": "https://static.nike.com/a/images/f_auto,b_rgb:f5f5f5,w_440/e738b04c-b521-4daa-99a6-521b8ad12b86/sportswear-tech-fleece-hoodie-jcBrrX.png",
+      "brandName": "Nike",
+      "newProduct": false,
+      "isDiscounted": false,
+      "discount": 0,
+      "actualPrice": 7995,
+      "effectivePrice": 7995
+    },
+    {
+      "_id": "p07",
+      "name": "Men Fleece Trousers",
+      "imgUrl": "https://static.nike.com/a/images/f_auto,b_rgb:f5f5f5,w_440/020c1a7a-6826-41ed-b760-9b4332d73368/jordan-dri-fit-zion-fleece-trousers-vLg2hr.png",
+      "brandName": "Nike",
+      "newProduct": true,
+      "isDiscounted": false,
+      "discount": 0,
+      "actualPrice": 5995,
+      "effectivePrice": 5995
+    },
+    {
+      "_id": "p08",
+      "name": "Dri Fit Air Trouser",
+      "imgUrl": "https://static.nike.com/a/images/f_auto,b_rgb:f5f5f5,w_440/1a11f439-9d51-4543-93c7-f87dc2c83dd8/jordan-dri-fit-air-trousers-RsRvsv.png",
+      "brandName": "Nike",
+      "newProduct": false,
+      "isDiscounted": true,
+      "discount": 20,
+      "actualPrice": 2795,
+      "effectivePrice": 2236
+    }
+  ]
+}
